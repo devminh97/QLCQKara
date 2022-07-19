@@ -1,0 +1,68 @@
+G:\C# Project\123\code phần mềm quản lý karaoke, Karaoke C#, c# mô hình 3 lớp\Karaoke\MrLong_QLCaffe\bin\Debug\Soft\MrLong_QLCaffe.exe.config
+G:\C# Project\123\code phần mềm quản lý karaoke, Karaoke C#, c# mô hình 3 lớp\Karaoke\MrLong_QLCaffe\bin\Debug\Soft\MrLong_QLCaffe.exe
+G:\C# Project\123\code phần mềm quản lý karaoke, Karaoke C#, c# mô hình 3 lớp\Karaoke\MrLong_QLCaffe\bin\Debug\Soft\MrLong_QLCaffe.pdb
+G:\C# Project\123\code phần mềm quản lý karaoke, Karaoke C#, c# mô hình 3 lớp\Karaoke\MrLong_QLCaffe\obj\Debug\MrLong_QLCaffe.frmBan.resources
+G:\C# Project\123\code phần mềm quản lý karaoke, Karaoke C#, c# mô hình 3 lớp\Karaoke\MrLong_QLCaffe\obj\Debug\MrLong_QLCaffe.frmBanHang.resources
+G:\C# Project\123\code phần mềm quản lý karaoke, Karaoke C#, c# mô hình 3 lớp\Karaoke\MrLong_QLCaffe\obj\Debug\MrLong_QLCaffe.frmCaiDat.resources
+G:\C# Project\123\code phần mềm quản lý karaoke, Karaoke C#, c# mô hình 3 lớp\Karaoke\MrLong_QLCaffe\obj\Debug\MrLong_QLCaffe.frmChangePass.resources
+G:\C# Project\123\code phần mềm quản lý karaoke, Karaoke C#, c# mô hình 3 lớp\Karaoke\MrLong_QLCaffe\obj\Debug\MrLong_QLCaffe.frmHoaDon.resources
+G:\C# Project\123\code phần mềm quản lý karaoke, Karaoke C#, c# mô hình 3 lớp\Karaoke\MrLong_QLCaffe\obj\Debug\MrLong_QLCaffe.frmKhuVuc.resources
+G:\C# Project\123\code phần mềm quản lý karaoke, Karaoke C#, c# mô hình 3 lớp\Karaoke\MrLong_QLCaffe\obj\Debug\MrLong_QLCaffe.frmLoaiSP.resources
+G:\C# Project\123\code phần mềm quản lý karaoke, Karaoke C#, c# mô hình 3 lớp\Karaoke\MrLong_QLCaffe\obj\Debug\MrLong_QLCaffe.frmLogin.resources
+G:\C# Project\123\code phần mềm quản lý karaoke, Karaoke C#, c# mô hình 3 lớp\Karaoke\MrLong_QLCaffe\obj\Debug\MrLong_QLCaffe.frmMain.resources
+G:\C# Project\123\code phần mềm quản lý karaoke, Karaoke C#, c# mô hình 3 lớp\Karaoke\MrLong_QLCaffe\obj\Debug\MrLong_QLCaffe.frmNhanVien.resources
+G:\C# Project\123\code phần mềm quản lý karaoke, Karaoke C#, c# mô hình 3 lớp\Karaoke\MrLong_QLCaffe\obj\Debug\MrLong_QLCaffe.frmSanPham.resources
+G:\C# Project\123\code phần mềm quản lý karaoke, Karaoke C#, c# mô hình 3 lớp\Karaoke\MrLong_QLCaffe\obj\Debug\MrLong_QLCaffe.frmThanhToan.resources
+G:\C# Project\123\code phần mềm quản lý karaoke, Karaoke C#, c# mô hình 3 lớp\Karaoke\MrLong_QLCaffe\obj\Debug\MrLong_QLCaffe.report.rptHoaDon.resources
+G:\C# Project\123\code phần mềm quản lý karaoke, Karaoke C#, c# mô hình 3 lớp\Karaoke\MrLong_QLCaffe\obj\Debug\MrLong_QLCaffe.Properties.Resources.resources
+G:\C# Project\123\code phần mềm quản lý karaoke, Karaoke C#, c# mô hình 3 lớp\Karaoke\MrLong_QLCaffe\obj\Debug\MrLong_QLCaffe.report.rptThongKe.resources
+G:\C# Project\123\code phần mềm quản lý karaoke, Karaoke C#, c# mô hình 3 lớp\Karaoke\MrLong_QLCaffe\obj\Debug\QLKARAOKE.csproj.GenerateResource.Cache
+G:\C# Project\123\code phần mềm quản lý karaoke, Karaoke C#, c# mô hình 3 lớp\Karaoke\MrLong_QLCaffe\obj\Debug\RdlCompile.cache
+G:\C# Project\123\code phần mềm quản lý karaoke, Karaoke C#, c# mô hình 3 lớp\Karaoke\MrLong_QLCaffe\obj\Debug\RdlCompile.compiled
+G:\C# Project\123\code phần mềm quản lý karaoke, Karaoke C#, c# mô hình 3 lớp\Karaoke\MrLong_QLCaffe\obj\Debug\MrLong_QLCaffe.exe
+G:\C# Project\123\code phần mềm quản lý karaoke, Karaoke C#, c# mô hình 3 lớp\Karaoke\MrLong_QLCaffe\obj\Debug\MrLong_QLCaffe.pdb
+G:\C# Project\123\code phần mềm quản lý karaoke, Karaoke C#, c# mô hình 3 lớp\Karaoke\MrLong_QLCaffe\bin\Debug\MrLong_QLCaffe.exe.config
+D:\DuAn_MaNguon\Sell source code\winform\code phần mềm quản lý karaoke, Karaoke C#, c# mô hình 3 lớp\Karaoke\MrLong_QLCaffe\bin\Debug\Soft\MrLong_QLCaffe.exe.config
+D:\DuAn_MaNguon\Sell source code\winform\code phần mềm quản lý karaoke, Karaoke C#, c# mô hình 3 lớp\Karaoke\MrLong_QLCaffe\obj\Debug\MrLong_QLCaffe.exe
+D:\DuAn_MaNguon\Sell source code\winform\code phần mềm quản lý karaoke, Karaoke C#, c# mô hình 3 lớp\Karaoke\MrLong_QLCaffe\obj\Debug\MrLong_QLCaffe.pdb
+D:\DuAn_MaNguon\Sell source code\winform\code phần mềm quản lý karaoke, Karaoke C#, c# mô hình 3 lớp\Karaoke\MrLong_QLCaffe\bin\Debug\Soft\MrLong_QLCaffe.exe
+D:\DuAn_MaNguon\Sell source code\winform\code phần mềm quản lý karaoke, Karaoke C#, c# mô hình 3 lớp\Karaoke\MrLong_QLCaffe\bin\Debug\Soft\MrLong_QLCaffe.pdb
+D:\DuAn_MaNguon\Sell source code\winform\code phần mềm quản lý karaoke, Karaoke C#, c# mô hình 3 lớp\Karaoke\MrLong_QLCaffe\obj\Debug\QLKARAOKE.csprojResolveAssemblyReference.cache
+D:\DuAn_MaNguon\Sell source code\winform\code phần mềm quản lý karaoke, Karaoke C#, c# mô hình 3 lớp\Karaoke\MrLong_QLCaffe\obj\Debug\MrLong_QLCaffe.frmBan.resources
+D:\DuAn_MaNguon\Sell source code\winform\code phần mềm quản lý karaoke, Karaoke C#, c# mô hình 3 lớp\Karaoke\MrLong_QLCaffe\obj\Debug\MrLong_QLCaffe.frmBanHang.resources
+D:\DuAn_MaNguon\Sell source code\winform\code phần mềm quản lý karaoke, Karaoke C#, c# mô hình 3 lớp\Karaoke\MrLong_QLCaffe\obj\Debug\MrLong_QLCaffe.frmCaiDat.resources
+D:\DuAn_MaNguon\Sell source code\winform\code phần mềm quản lý karaoke, Karaoke C#, c# mô hình 3 lớp\Karaoke\MrLong_QLCaffe\obj\Debug\MrLong_QLCaffe.frmChangePass.resources
+D:\DuAn_MaNguon\Sell source code\winform\code phần mềm quản lý karaoke, Karaoke C#, c# mô hình 3 lớp\Karaoke\MrLong_QLCaffe\obj\Debug\MrLong_QLCaffe.frmHoaDon.resources
+D:\DuAn_MaNguon\Sell source code\winform\code phần mềm quản lý karaoke, Karaoke C#, c# mô hình 3 lớp\Karaoke\MrLong_QLCaffe\obj\Debug\MrLong_QLCaffe.frmKhuVuc.resources
+D:\DuAn_MaNguon\Sell source code\winform\code phần mềm quản lý karaoke, Karaoke C#, c# mô hình 3 lớp\Karaoke\MrLong_QLCaffe\obj\Debug\MrLong_QLCaffe.frmLoaiSP.resources
+D:\DuAn_MaNguon\Sell source code\winform\code phần mềm quản lý karaoke, Karaoke C#, c# mô hình 3 lớp\Karaoke\MrLong_QLCaffe\obj\Debug\MrLong_QLCaffe.frmLogin.resources
+D:\DuAn_MaNguon\Sell source code\winform\code phần mềm quản lý karaoke, Karaoke C#, c# mô hình 3 lớp\Karaoke\MrLong_QLCaffe\obj\Debug\MrLong_QLCaffe.frmMain.resources
+D:\DuAn_MaNguon\Sell source code\winform\code phần mềm quản lý karaoke, Karaoke C#, c# mô hình 3 lớp\Karaoke\MrLong_QLCaffe\obj\Debug\MrLong_QLCaffe.frmNhanVien.resources
+D:\DuAn_MaNguon\Sell source code\winform\code phần mềm quản lý karaoke, Karaoke C#, c# mô hình 3 lớp\Karaoke\MrLong_QLCaffe\obj\Debug\MrLong_QLCaffe.frmSanPham.resources
+D:\DuAn_MaNguon\Sell source code\winform\code phần mềm quản lý karaoke, Karaoke C#, c# mô hình 3 lớp\Karaoke\MrLong_QLCaffe\obj\Debug\MrLong_QLCaffe.frmThanhToan.resources
+D:\DuAn_MaNguon\Sell source code\winform\code phần mềm quản lý karaoke, Karaoke C#, c# mô hình 3 lớp\Karaoke\MrLong_QLCaffe\obj\Debug\MrLong_QLCaffe.report.rptHoaDon.resources
+D:\DuAn_MaNguon\Sell source code\winform\code phần mềm quản lý karaoke, Karaoke C#, c# mô hình 3 lớp\Karaoke\MrLong_QLCaffe\obj\Debug\MrLong_QLCaffe.Properties.Resources.resources
+D:\DuAn_MaNguon\Sell source code\winform\code phần mềm quản lý karaoke, Karaoke C#, c# mô hình 3 lớp\Karaoke\MrLong_QLCaffe\obj\Debug\MrLong_QLCaffe.report.rptThongKe.resources
+D:\DuAn_MaNguon\Sell source code\winform\code phần mềm quản lý karaoke, Karaoke C#, c# mô hình 3 lớp\Karaoke\MrLong_QLCaffe\obj\Debug\QLKARAOKE.csproj.GenerateResource.Cache
+D:\DuAn_MaNguon\Sell source code\winform\code phần mềm quản lý karaoke, Karaoke C#, c# mô hình 3 lớp\Karaoke\MrLong_QLCaffe\obj\Debug\RdlCompile.cache
+D:\DuAn_MaNguon\Sell source code\winform\code phần mềm quản lý karaoke, Karaoke C#, c# mô hình 3 lớp\Karaoke\MrLong_QLCaffe\obj\Debug\RdlCompile.compiled
+D:\Do An\Karaoke\MrLong_QLCaffe\obj\Debug\QLKARAOKE.csproj.AssemblyReference.cache
+D:\Do An\Karaoke\MrLong_QLCaffe\obj\Debug\MrLong_QLCaffe.frmBan.resources
+D:\Do An\Karaoke\MrLong_QLCaffe\obj\Debug\MrLong_QLCaffe.frmBanHang.resources
+D:\Do An\Karaoke\MrLong_QLCaffe\obj\Debug\MrLong_QLCaffe.frmCaiDat.resources
+D:\Do An\Karaoke\MrLong_QLCaffe\obj\Debug\MrLong_QLCaffe.frmChangePass.resources
+D:\Do An\Karaoke\MrLong_QLCaffe\obj\Debug\MrLong_QLCaffe.frmHoaDon.resources
+D:\Do An\Karaoke\MrLong_QLCaffe\obj\Debug\MrLong_QLCaffe.frmKhuVuc.resources
+D:\Do An\Karaoke\MrLong_QLCaffe\obj\Debug\MrLong_QLCaffe.frmLoaiSP.resources
+D:\Do An\Karaoke\MrLong_QLCaffe\obj\Debug\MrLong_QLCaffe.frmLogin.resources
+D:\Do An\Karaoke\MrLong_QLCaffe\obj\Debug\MrLong_QLCaffe.frmMain.resources
+D:\Do An\Karaoke\MrLong_QLCaffe\obj\Debug\MrLong_QLCaffe.frmNhanVien.resources
+D:\Do An\Karaoke\MrLong_QLCaffe\obj\Debug\MrLong_QLCaffe.frmSanPham.resources
+D:\Do An\Karaoke\MrLong_QLCaffe\obj\Debug\MrLong_QLCaffe.frmThanhToan.resources
+D:\Do An\Karaoke\MrLong_QLCaffe\obj\Debug\MrLong_QLCaffe.report.rptHoaDon.resources
+D:\Do An\Karaoke\MrLong_QLCaffe\obj\Debug\MrLong_QLCaffe.Properties.Resources.resources
+D:\Do An\Karaoke\MrLong_QLCaffe\obj\Debug\MrLong_QLCaffe.report.rptThongKe.resources
+D:\Do An\Karaoke\MrLong_QLCaffe\obj\Debug\QLKARAOKE.csproj.GenerateResource.cache
+D:\Do An\Karaoke\MrLong_QLCaffe\obj\Debug\QLKARAOKE.csproj.CoreCompileInputs.cache
+D:\Do An\Karaoke\MrLong_QLCaffe\obj\Debug\MrLong_QLCaffe.exe
+D:\Do An\Karaoke\MrLong_QLCaffe\obj\Debug\MrLong_QLCaffe.pdb
